@@ -1,2 +1,0 @@
-# CRON
-cron
